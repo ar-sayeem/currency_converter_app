@@ -11,8 +11,6 @@ A sleek and user-friendly **Currency Converter** app built with **Flutter** that
 
 ## Screenshots of the App:
 
-### Splash Screen
-
 <table>
   <tr>
     <td>
